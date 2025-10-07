@@ -123,9 +123,9 @@ img {
     right: 25px;
   }
   .footer-links-wrapper h3.iconRotator:after {
-		font-family: "FontAwesome";
-		content: "\f00d";
-	}
+    font-family: "FontAwesome";
+    content: "\f00d";
+  }
 }
 @media (min-width: 768px) {
   /*Nav bar*/

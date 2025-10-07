@@ -4,3 +4,7 @@ $(".footer-links-wrapper h3").click(function () {
       $(this).toggleClass("iconRotator");
     }
 });
+
+$(window).resize(function () {
+  
+});

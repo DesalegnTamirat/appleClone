@@ -194,3 +194,15 @@ img {
 .product .font-size-2 {
   font-size: clamp(1.6rem, 4vw, 2.6rem); 
 }
+
+
+.product .font-size-4 {
+  font-size: clamp(0.95rem, 2.3vw, 1.3rem); 
+}
+/* separate products */
+.product-1 {
+  background-image: url("../images/home/watch-series-5.jpg");
+}
+.product-2 {
+  background-image: url("../images/home/apple-card.jpg");
+}

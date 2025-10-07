@@ -14,6 +14,20 @@
 /*=== Second Section ===*/
 
 /* Third Section */
+/* Third Section */
+.third-section {
+  background-image: url("../images/home/iphone11-bg.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 450px;
+}
+
+@media (min-width: 768px) {
+  .third-section {
+    height: 600px;
+  }
+}
 
 /*=== Fourth Section ===*/
 /* common product styles */

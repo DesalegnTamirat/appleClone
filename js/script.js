@@ -6,5 +6,8 @@ $(".footer-links-wrapper h3").click(function () {
 });
 
 $(window).resize(function () {
-  
+    if ($(window).width() > 768) {
+      $(".footer-links-wrapper ul").removeAttr("style");
+      $(".footer-links-wrapper h3").removeClass("iconRotator");
+    }
 });

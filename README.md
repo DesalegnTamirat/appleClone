@@ -160,9 +160,15 @@ git revert <commit-id>
 | ![Desktop Design](images/apple-home-page-desktop-design.jpeg) | ![Mobile Design](images/apple-home-page-mobile-design.jpeg) |
 
 ---
-
 ## 🙌 Credits
 
 Developed collaboratively by our **Evangadi Web Development Group**.
-**Group Leader:** Desalegn Tamirat
-**Collaborators:** *()*
+
+**Group Leader:** [Desalegn Tamirat](https://github.com/DesalegnTamirat)
+
+**Collaborators:**
+
+* [Moges Sisay](https://github.com/Moges741)
+* [Tewobsta Migbar](https://github.com/Tewobsta13)
+* [Abdulkaf Nesru](https://github.com/Abdulkafnesru)
+* [Rediet Befkadu](https://github.com/redietbefkadu)
